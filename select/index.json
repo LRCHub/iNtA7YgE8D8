@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フルカラープログラム (D.A style)",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-16T03:08:03.406693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フルカラープログラム - D.A style",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_フルカラープログラム_-_D.A_style_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フルカラープログラム",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_フルカラープログラム_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フルカラープログラム",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_フルカラープログラム_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
